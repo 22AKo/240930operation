@@ -31,8 +31,6 @@
             Console.WriteLine("num 1 * num 2 = " + tempNum);
             tempNum = numOne * intOne;
             Console.WriteLine("num 1 * int 1 = " + tempNum);
-            tempNum = 7/2
-            Console.
         }   
     }
 }
